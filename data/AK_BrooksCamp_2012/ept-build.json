@@ -1,0 +1,11 @@
+{
+	"overflowDepth" : 1,
+	"overflowThreshold" : 32768,
+	"reprojection" : 
+	{
+		"out" : "EPSG:3857"
+	},
+	"software" : "Entwine",
+	"trustHeaders" : true,
+	"version" : "2.0.0"
+}

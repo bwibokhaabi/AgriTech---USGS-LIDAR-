@@ -1,0 +1,656 @@
+[
+	{
+		"bounds" : 
+		[
+			-17347357.8271,
+			8086774.99448,
+			177.439923745,
+			-17345752.156,
+			8088724.40615,
+			502.51992376
+		],
+		"id" : "AK_BrooksCamp_2012_000001.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000001.laz",
+		"points" : 10253400,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17345844.0383,
+			8086839.40287,
+			136.129923741,
+			-17342885.3432,
+			8089150.19568,
+			463.459923758
+		],
+		"id" : "AK_BrooksCamp_2012_000002.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000002.laz",
+		"points" : 21274972,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17342989.0799,
+			8086959.53994,
+			12.4299237384,
+			-17340018.4217,
+			8089574.55718,
+			844.449923757
+		],
+		"id" : "AK_BrooksCamp_2012_000003.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000003.laz",
+		"points" : 30115691,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17340122.3769,
+			8087078.57813,
+			1.23992373701,
+			-17338335.1255,
+			8089672.43566,
+			403.369923756
+		],
+		"id" : "AK_BrooksCamp_2012_000004.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000004.laz",
+		"points" : 8987941,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17347268.0432,
+			8083904.02304,
+			35.4099237584,
+			-17345631.7451,
+			8086839.38292,
+			267.089923782
+		],
+		"id" : "AK_BrooksCamp_2012_000005.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000005.laz",
+		"points" : 15100506,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17345752.136,
+			8083967.93674,
+			8.57992375921,
+			-17342766.0287,
+			8086959.52,
+			708.649923782
+		],
+		"id" : "AK_BrooksCamp_2012_000006.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000006.laz",
+		"points" : 34893207,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17342885.3233,
+			8084087.96466,
+			1.8399237562,
+			-17339900.2037,
+			8087078.5582,
+			168.889923779
+		],
+		"id" : "AK_BrooksCamp_2012_000007.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000007.laz",
+		"points" : 26867599,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17340018.4018,
+			8085883.82487,
+			12.3199237548,
+			-17338289.7561,
+			8087147.79052,
+			54.6399237672
+		],
+		"id" : "AK_BrooksCamp_2012_000008.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000008.laz",
+		"points" : 4395255,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17347125.3888,
+			8082568.26939,
+			20.4899237799,
+			-17345575.7144,
+			8083967.91679,
+			86.1399237914
+		],
+		"id" : "AK_BrooksCamp_2012_000009.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000009.laz",
+		"points" : 4644057,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17345631.7252,
+			8081097.56431,
+			9.40992377978,
+			-17342646.8227,
+			8084087.94472,
+			58.9499238031
+		],
+		"id" : "AK_BrooksCamp_2012_000010.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000010.laz",
+		"points" : 8851608,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17342766.0088,
+			8081217.48322,
+			4.45992377866,
+			-17339782.0931,
+			8084206.87476,
+			78.0299238032
+		],
+		"id" : "AK_BrooksCamp_2012_000011.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000011.laz",
+		"points" : 26566539,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17339897.0903,
+			8081336.30523,
+			5.71992377937,
+			-17336917.2561,
+			8084249.53799,
+			67.3299238002
+		],
+		"id" : "AK_BrooksCamp_2012_000012.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000012.laz",
+		"points" : 25412544,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17336993.3127,
+			8081454.0302,
+			12.2899237843,
+			-17334052.3127,
+			8083437.24349,
+			76.5199237997
+		],
+		"id" : "AK_BrooksCamp_2012_000013.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000013.laz",
+		"points" : 11063417,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17334136.5719,
+			8081570.65801,
+			3.38992378116,
+			-17332033.7439,
+			8083739.57043,
+			165.029923799
+		],
+		"id" : "AK_BrooksCamp_2012_000014.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000014.laz",
+		"points" : 9570080,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17342711.1052,
+			8079556.06941,
+			20.4399238005,
+			-17342577.9671,
+			8081217.46329,
+			23.2599238157
+		],
+		"id" : "AK_BrooksCamp_2012_000015.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000015.laz",
+		"points" : 30230,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17342646.8028,
+			8078348.09463,
+			20.3599238014,
+			-17339664.09,
+			8081336.28531,
+			927.599923824
+		],
+		"id" : "AK_BrooksCamp_2012_000016.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000016.laz",
+		"points" : 18703873,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17339782.0733,
+			8078466.80875,
+			45.6599238012,
+			-17336800.3476,
+			8081454.01029,
+			72.7799238265
+		],
+		"id" : "AK_BrooksCamp_2012_000017.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000017.laz",
+		"points" : 26420521,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17336917.2363,
+			8078584.42684,
+			1.03992379922,
+			-17333936.4989,
+			8081570.6381,
+			85.0799238235
+		],
+		"id" : "AK_BrooksCamp_2012_000018.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000018.laz",
+		"points" : 29575962,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17334052.2928,
+			8080919.04246,
+			12.2899237983,
+			-17333245.6678,
+			8081602.21659,
+			28.6099238051
+		],
+		"id" : "AK_BrooksCamp_2012_000019.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000019.laz",
+		"points" : 624028,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17341086.4512,
+			8077236.12716,
+			47.9099238217,
+			-17339615.9167,
+			8078466.78884,
+			70.0599238314
+		],
+		"id" : "AK_BrooksCamp_2012_000020.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000020.laz",
+		"points" : 2072456,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17339664.0702,
+			8075598.40428,
+			47.0499238214,
+			-17336683.5454,
+			8078584.40693,
+			106.859923845
+		],
+		"id" : "AK_BrooksCamp_2012_000021.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000021.laz",
+		"points" : 19077760,
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17336800.3278,
+			8075715.91561,
+			1.36992382072,
+			-17333820.7905,
+			8078700.92884,
+			910.909923844
+		],
+		"id" : "AK_BrooksCamp_2012_000022.laz",
+		"inserts" : 3336575,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000022.laz",
+		"points" : 21024805,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17333894.187,
+			8075832.33174,
+			2.73992382921,
+			-17330957.9303,
+			8077767.99691,
+			95.0899238437
+		],
+		"id" : "AK_BrooksCamp_2012_000023.laz",
+		"inserts" : 11130435,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000023.laz",
+		"points" : 11130435,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17330966.7962,
+			8075947.65256,
+			12.3199238405,
+			-17330692.7096,
+			8076180.72031,
+			13.3799238438
+		],
+		"id" : "AK_BrooksCamp_2012_000024.laz",
+		"inserts" : 67137,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000024.laz",
+		"points" : 67137,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17337486.433,
+			8075021.92242,
+			55.9299238427,
+			-17336656.6329,
+			8075715.89571,
+			926.09992385
+		],
+		"id" : "AK_BrooksCamp_2012_000025.laz",
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000025.laz",
+		"points" : 806897,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17336683.5256,
+			8072848.49552,
+			53.8299238421,
+			-17333705.1871,
+			8075832.31185,
+			971.899923865
+		],
+		"id" : "AK_BrooksCamp_2012_000026.laz",
+		"inserts" : 4618533,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000026.laz",
+		"points" : 14214472,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17333820.7706,
+			8072964.80602,
+			12.2899238421,
+			-17330843.4199,
+			8075947.63268,
+			736.509923866
+		],
+		"id" : "AK_BrooksCamp_2012_000027.laz",
+		"inserts" : 22663286,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000027.laz",
+		"points" : 22663286,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17330957.9105,
+			8073080.0222,
+			3.49992384017,
+			-17327981.5485,
+			8076061.85805,
+			849.359923864
+		],
+		"id" : "AK_BrooksCamp_2012_000028.laz",
+		"inserts" : 17763217,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000028.laz",
+		"points" : 17763217,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17328035.5766,
+			8073194.14391,
+			12.1999238515,
+			-17326532.8299,
+			8074618.2789,
+			83.5299238637
+		],
+		"id" : "AK_BrooksCamp_2012_000029.laz",
+		"inserts" : 3771066,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000029.laz",
+		"points" : 3771066,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17333889.6141,
+			8072805.29878,
+			64.9799238648,
+			-17333699.0593,
+			8072964.78614,
+			68.7399238655
+		],
+		"id" : "AK_BrooksCamp_2012_000030.laz",
+		"inserts" : 31819,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000030.laz",
+		"points" : 31819,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17333705.1673,
+			8070456.44346,
+			65.1799238641,
+			-17330743.3017,
+			8073080.00232,
+			211.859923886
+		],
+		"id" : "AK_BrooksCamp_2012_000031.laz",
+		"inserts" : 9759355,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000031.laz",
+		"points" : 9759355,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17330843.4,
+			8070213.48225,
+			65.5899238624,
+			-17327868.2342,
+			8073194.12404,
+			269.329923887
+		],
+		"id" : "AK_BrooksCamp_2012_000032.laz",
+		"inserts" : 20963697,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000032.laz",
+		"points" : 20963697,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17327981.5287,
+			8070327.50045,
+			21.7999238623,
+			-17325007.3519,
+			8073307.15117,
+			629.809923884
+		],
+		"id" : "AK_BrooksCamp_2012_000033.laz",
+		"inserts" : 24728892,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000033.laz",
+		"points" : 24728892,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17325049.9541,
+			8070440.42504,
+			16.7099238755,
+			-17324142.4108,
+			8071563.30919,
+			46.5499238847
+		],
+		"id" : "AK_BrooksCamp_2012_000034.laz",
+		"inserts" : 1825425,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000034.laz",
+		"points" : 1825425,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17330293.933,
+			8068232.9173,
+			74.6799238818,
+			-17327789.2901,
+			8070327.48058,
+			169.159923902
+		],
+		"id" : "AK_BrooksCamp_2012_000035.laz",
+		"inserts" : 5980849,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000035.laz",
+		"points" : 5980849,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17327868.2144,
+			8067461.94654,
+			32.2699238826,
+			-17324895.2317,
+			8070440.40518,
+			840.049923906
+		],
+		"id" : "AK_BrooksCamp_2012_000036.laz",
+		"inserts" : 19241366,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000036.laz",
+		"points" : 19241366,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17325007.3321,
+			8067574.76873,
+			19.3899238827,
+			-17322035.3388,
+			8070552.23604,
+			133.759923906
+		],
+		"id" : "AK_BrooksCamp_2012_000037.laz",
+		"inserts" : 16864592,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000037.laz",
+		"points" : 16864592,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17322048.993,
+			8067686.49817,
+			44.0899239024,
+			-17321754.4728,
+			8068050.41482,
+			64.4099239064
+		],
+		"id" : "AK_BrooksCamp_2012_000038.laz",
+		"inserts" : 174281,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000038.laz",
+		"points" : 174281,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17325229.9652,
+			8067486.57284,
+			84.7599239033,
+			-17324892.3153,
+			8067574.74813,
+			121.109923908
+		],
+		"id" : "AK_BrooksCamp_2012_000039.laz",
+		"inserts" : 28353,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000039.laz",
+		"points" : 28353,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17324895.1928,
+			8066856.61566,
+			31.6499239057,
+			-17322007.5233,
+			8067686.47833,
+			99.3399239108
+		],
+		"id" : "AK_BrooksCamp_2012_000040.laz",
+		"inserts" : 3012913,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000040.laz",
+		"points" : 3012913,
+		"status" : "inserted",
+		"url" : "0.json"
+	},
+	{
+		"bounds" : 
+		[
+			-17322035.319,
+			8066962.30258,
+			44.6599239055,
+			-17321559.9417,
+			8067703.85769,
+			72.6499239104
+		],
+		"id" : "AK_BrooksCamp_2012_000041.laz",
+		"inserts" : 730814,
+		"path" : "s3://usgs-lidar/Projects/AK_BrooksCamp_2012/laz/AK_BrooksCamp_2012_000041.laz",
+		"points" : 730814,
+		"status" : "inserted",
+		"url" : "0.json"
+	}
+]
