@@ -158,3 +158,12 @@ Traceback (most recent call last):
     return self.p.execute()
   File "libpdalpython.pyx", line 180, in pdal.libpdalpython.PyPipeline.execute
 RuntimeError: filters.range: Unexpected argument 'polygon'.
+24-06-2022 15:06:31 - [INFO] -  files_loader - (files_loader.py).read_json(line 31) - Json file read from fetch.json.
+24-06-2022 15:06:35 - [ERROR] -  __main__ - (<ipython-input-2-4b0165ac5391>).run_pipeline(line 54) - Pipeline execution failed
+Traceback (most recent call last):
+  File "<ipython-input-2-4b0165ac5391>", line 50, in run_pipeline
+    pipeline.execute()
+  File "/home/user/anaconda3/envs/agritech/lib/python3.6/site-packages/pdal/pipeline.py", line 40, in execute
+    return self.p.execute()
+  File "libpdalpython.pyx", line 180, in pdal.libpdalpython.PyPipeline.execute
+RuntimeError: filters.range: Unexpected argument 'polygon'.
