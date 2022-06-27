@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "lidar_tutorial_daisy"
+version = "0.0.1"
+authors = [
+  { name="bwibokhaabi",
+    email="khaabiokacha@students.uonbi.ac.ke" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/bwibokhaabi/AgriTech---USGS-LIDAR-"
+"Bug Tracker" = "https://github.com/bwibokhaabi/AgriTech---USGS-LIDAR-/issues"
